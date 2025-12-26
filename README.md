@@ -1,2 +1,2 @@
 # web-technology
-i am starting to lean html, css, bootstrap,javascript
+i am starting to learn html, css, bootstrap,javascript
